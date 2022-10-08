@@ -1,4 +1,3 @@
-from distutils.command.upload import upload
 import speedtest
 import paho.mqtt.client as paho
 import json
