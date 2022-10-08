@@ -3,7 +3,7 @@
 <div align="center">
   
   [![GitHub](https://img.shields.io/github/license/joseph-mccarthy/internet-speed-test?style=for-the-badge)](https://github.com/joseph-mccarthy/internet-speed-test/blob/main/licence)
-  [![wakatime](https://wakatime.com/badge/github/joseph-mccarthy/linternet-speed-test.svg?style=for-the-badge)](https://wakatime.com/badge/github/joseph-mccarthy/internet-speed-test)
+  [![wakatime](https://wakatime.com/badge/github/joseph-mccarthy/internet-speed-test.svg?style=for-the-badge)](https://wakatime.com/badge/github/joseph-mccarthy/internet-speed-test)
 
 </div>
 
